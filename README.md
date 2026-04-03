@@ -48,3 +48,10 @@ This project is for educational purposes only. Use it only on systems you own or
 ## ✅ Conclusion
 This project demonstrates basic networking, port scanning, and GUI development using Python.
 
+## 📂 Project Structure
+- main.py – main application  
+- screenshot1.png – before scan  
+- screenshot2.png – during scan  
+- screenshot3.png – after scan  
+- PortScanner_Report.pdf – project report  
+
