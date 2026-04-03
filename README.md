@@ -50,8 +50,7 @@ This project demonstrates basic networking, port scanning, and GUI development u
 
 ## 📂 Project Structure
 - main.py – main application  
-- screenshot1.png – before scan  
-- screenshot2.png – during scan  
-- screenshot3.png – after scan  
+- screenshot1.png – before scan   
+- screenshot2.png – after scan  
 - PortScanner_Report.pdf – project report  
 
